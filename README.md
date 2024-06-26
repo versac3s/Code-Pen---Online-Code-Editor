@@ -1,7 +1,4 @@
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## CodePen Clone
 
 # Features
 
@@ -16,6 +13,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     CodeMirror: A versatile text editor implemented in JavaScript for the browser, providing syntax highlighting.
     Local Storage: Browser's local storage API to persist user code across sessions.
     HTML, CSS, JavaScript: Core technologies for web development.
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
