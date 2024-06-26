@@ -1,7 +1,21 @@
-<<<<<<< HEAD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Features
+
+    Real-time Code Editing: Write and preview HTML, CSS, and JavaScript code instantly.
+    Local Storage: Saves the code in the browser’s local storage so you can resume your work later.
+    Responsive Layout: A clean, responsive layout that works well on both desktop and mobile devices.
+    Syntax Highlighting: Enhanced code readability with syntax highlighting provided by CodeMirror.
+
+# Technologies Used
+
+    React: A JavaScript library for building user interfaces.
+    CodeMirror: A versatile text editor implemented in JavaScript for the browser, providing syntax highlighting.
+    Local Storage: Browser's local storage API to persist user code across sessions.
+    HTML, CSS, JavaScript: Core technologies for web development.
 
 ## Available Scripts
 
